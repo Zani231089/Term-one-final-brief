@@ -1,0 +1,297 @@
+html,body{
+    width:1440px;
+    background-color: black;
+}
+
+nav{
+    width:1440px;
+    height:80px;
+    color:white;
+}
+
+header{
+    width:1440px;
+    height: 600px;
+    background-image: url(../assets/Cover\ image.jpeg);
+    background-position: center;
+    background-size: cover;
+}
+
+footer{
+    width: 1440px;
+    height:50px;
+    background-color: black;
+    color: white;
+}
+
+header p{
+    padding-left: 100px;
+    padding-top:70px;
+}
+
+.container-fluid{
+    width:1440px;
+}
+
+.src{
+    padding-left: 200px;
+}
+h1{
+    padding-left:100px;
+    margin-top: -20px;
+}
+
+h5{
+    padding-top: 70px;
+    margin-left: 200px;
+    margin-bottom: 30px;
+    color: white;
+}
+
+.logo{
+    float: left;
+    margin-left: 50px;
+    margin-top: 30px;
+
+}
+.col-box{
+    width: 1440px;
+    height: 160px;
+    background-color: lightgrey;
+    margin-top: 30px;
+    text-align: center;
+    padding-top: 100px;
+}
+
+.col-box1{
+    width: 70%;
+    height: 250px;
+    background-color: darkgrey;
+    text-align: center;
+    padding-top: 100px;
+    margin-top:-60px;
+    margin-left:150px;
+    margin-right: -80px
+}
+
+.col-box21{
+    width: 230px;
+    height: 180px;
+    background-image: url(../assets/Kelsea\ ballerini.webp);
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    margin-bottom: 50px;
+    margin-left: 200px;
+    
+}
+
+.col-box22{
+    width: 230px;
+    height: 180px;
+    background-image: url(../assets/Morgan\ Wallen-\ One\ Thing\ at\ a\ Time\ .webp);
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    margin-bottom: 50px;
+    margin-left: 90px;
+  
+}
+
+.col-box23{
+    width: 230px;
+    height: 180px;
+    background-image: url(../assets/Recent\ releases\ 1.jpg);
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    margin-bottom: 50px;
+    margin-left: -20px;
+}
+
+.col-box24{
+    width: 230px;
+    height: 180px;
+    background-image: url(../assets/Shania_Twain_-_Queen_of_Me.png);
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    margin-bottom: 50px;
+    margin-left: -130px;
+}
+
+.col-box3{
+    width: 80%;
+    height: 300px;
+    background-color: lightgrey;
+    padding-top: 20px;
+    margin-top:-60px;
+    margin-left: -90px;
+    text-align: left;
+    padding-left: 20px;
+}
+
+.col-box41{
+    width: 230px;
+    height: 180px;
+    background-image: url(../assets/Popular\ 5.jpeg);
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    margin-bottom: 10px;
+    margin-left: 200px;
+}
+
+.col-box42{
+    width: 230px;
+    height: 180px;
+    background-image: url(../assets/Popular\ 2.jpeg);
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    margin-bottom: 10px;
+    margin-left: 90px;
+}
+
+.col-box43{
+    width: 230px;
+    height: 180px;
+    background-image: url(../assets/Popular3.jpeg);
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    margin-bottom: 10px;
+    margin-left: -20px;
+}
+
+.col-box44{
+    width: 230px;
+    height: 180px;
+    background-image: url(../assets/Popular\ 4.jpeg);
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    margin-bottom: 10px;
+    margin-left: -130px;
+}
+
+.col-box51{
+    width: 230px;
+    height: 180px;
+    background-image: url(../assets/Miranda_Lambert_-_Palomino\ Popular\ 6.png);
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    margin-bottom: 50px;
+    margin-left: 200px;
+}
+
+.col-box52{
+    width: 230px;
+    height: 180px;
+    background-image: url(../assets/Zach_Bryan_-_American_Heartbreak\ popular\ 7.png);
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    margin-bottom: 50px;
+    margin-left: 90px;
+}
+
+.col-box53{
+    width: 230px;
+    height: 180px;
+    background-image: url(../assets/1200x1200bf-60\ popular\ 8.jpeg);
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    margin-bottom: 50px;
+    margin-left: -20px;
+}
+
+.col-box54{
+    width: 230px;
+    height: 180px;
+    background-image: url(../assets/Timgreatest\ popular\ 9.jpeg);
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    margin-bottom: 50px;
+    margin-left: -130px;
+}
+
+.button{
+    width:150px;
+    height:40px;
+    text-align: center;
+    padding-top: 5px;
+    font-weight: bold;
+    float:left;
+    border-radius:20px;
+    padding-bottom: 20px;
+    margin-top: 50px;
+    margin-left: 30px;
+}
+
+.normal-1{
+    border: 2px solid lightblue;
+    color:white;
+    margin-left: 100px;
+    margin-top: -3px;
+}
+
+.normal-2{
+    border: 2px solid lightblue;
+    color:white;
+    margin-top: -3px;
+    margin-right: 10px;
+}
+
+.heart{
+    margin-left: 100px;
+}
+
+.button-back{
+    margin-left: 400px;
+    margin-top: 50px;
+}
+
+.inverted{
+    border-radius: 50%;
+    border: 2px solid lightblue;
+    color: white;
+    width:40px;
+}
+
+.button1{
+    float: right;
+    border: 2px solid white;
+    width: 255px;
+    margin-right: -80px;
+    border-radius: 20px;
+    padding-left:10px;
+    padding-top:5px;
+    padding-bottom: 5px;
+    margin-top: -20px;
+    color: white;
+}
+
+.nav-con{
+    width:80%;
+    height:50px;
+    float:left;
+    padding-right:10px;
+    margin-top: 35px;
+}
+
+.nav-con ul{
+    list-style: none;
+}
+
+.nav-con li{
+    float:left;
+    height:26px;
+    text-align: center;
+    margin-right: 10px;
+    padding-left: 40px;
+
+}

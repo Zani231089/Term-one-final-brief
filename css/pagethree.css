@@ -1,0 +1,177 @@
+html,body{
+    background-color: black;
+}
+
+nav{
+    width:1440px;
+    height:80px;
+    color: black;
+}
+
+h3{
+    color: white;
+    margin-bottom: -20px;
+}
+
+.logo{
+    float: left;
+    margin-left: 50px;
+    margin-top:35px;
+    color: white;
+
+}
+
+.nav-con{
+    width:80%;
+    height:50px;
+    float:left;
+    padding-right:10px;
+    margin-top: 10px;
+    color: white
+}
+
+.nav-con ul{
+    list-style: none;
+}
+
+.nav-con li{
+    float:left;
+    height:26px;
+    text-align: center;
+    margin-right: 10px;
+    padding-left: 41px;
+    margin-top: 30px;
+}
+
+.button1{
+    float: right;
+    border: 2px solid turquoise;
+    width: 255px;
+    margin-right: 30px;
+    border-radius: 20px;
+    padding-left:10px;
+    padding-top:5px;
+    padding-bottom: 5px;
+    margin-top: -25px;
+    color: white;
+}
+
+.button2{
+    border-radius: 50%;
+    padding-top: 15px;
+    width:60px;
+    height:60px;
+    margin-top: 80px;
+    margin-left: 200px;
+}
+
+
+.container-fluid{
+    width:1440px;
+}
+
+.col-box1{
+    width: 470px;
+    height: 470px;
+    background-color: darkgrey;
+    text-align: center;
+    margin-left:150px;
+    margin-top:50px;
+    color:white;
+    padding-top: 210px;
+}
+
+.col-box2{
+    width: 600px;
+    height: 490px;
+    border: 1px solid white;
+    text-align: center;
+    margin-top:40px;
+}
+
+.col-box3{
+    width: 600px;
+    height: 67px;
+    border: none;
+    margin-top: 70px;
+    padding-bottom:30px;
+}
+
+.col-box6{
+    width:1200px;
+    height:100px;
+    margin-top: 180px;
+    border: 2px solid white;
+    margin-bottom: 40px;
+    margin-left: 70px;
+}
+
+.box1{
+    border: 2px solid white;
+    width: 600px;
+    height: 67px;
+}
+
+.col-1{
+    width:120px;
+    height:67px;
+}
+.par-1{
+    padding-top:85px;
+    padding-bottom: -50px;
+    padding-left:160px;
+}
+
+.play-buttons{
+    margin-left: 600px;
+    margin-top: -80px;
+    padding-left: 20px;
+    margin-bottom: 30px;
+}
+
+.player-line{
+    width:1300px;
+    height:100px;
+    margin-top: 200px;
+    margin-left: 40px;
+    
+}
+
+.line{
+    width:100%;
+    height:2px;
+    background-color: lightgray;
+    margin-top: 30px;
+}
+
+.line-fill{
+    width:15%;
+    height:2px;
+    background-color: turquoise;
+}
+
+.marker{
+    width: 30px;
+    height: 30px;
+    background-color: turquoise;
+    border-radius: 40px;
+    margin-left: 200px;
+    margin-top: -18px;
+}
+
+.time{
+    width:40px;
+    height: 40px;
+    border: none;
+    color: white;
+    margin-left: 1280px;
+    margin-top: -100px;
+}
+
+.artist-box{
+    width: 40px;
+    height:40px;
+    background-color: lightgray;
+    margin-left: 50px;
+    margin-top: -50px;
+}
