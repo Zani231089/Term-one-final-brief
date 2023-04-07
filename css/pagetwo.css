@@ -100,7 +100,7 @@ form{
     width:450px;
     height:400px;
     margin-top:40px;
-    background-color: darkgray;
+    background-color: lightgray;
     text-align: left;
     margin-left: 50px;
     color: black;
@@ -117,7 +117,7 @@ form{
     padding-left:15px;
     border-radius: 20px;
     border: none;
-    background-color:midnightblue;
+    background-color:darkgray;
     color: white;
 
 }
@@ -136,12 +136,13 @@ form{
 
 select{
     width:90% !important;
-    background-color: midnightblue;
-    color: white;
+    background-color: darkgray;
+    color: lightgray;
     border-radius: 20px;
     text-align: left;
     margin-top:20px;
     height:35px;
+    border: none;
 }
 
 .button{

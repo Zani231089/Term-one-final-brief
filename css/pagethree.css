@@ -73,7 +73,9 @@ h3{
 .col-box1{
     width: 470px;
     height: 470px;
-    background-color: darkgrey;
+    background-image: url(../assets/my_favourite_mix_album_cover.png);
+    background-position: center;
+    background-size: cover;
     text-align: center;
     margin-left:150px;
     margin-top:50px;
@@ -112,9 +114,23 @@ h3{
     height: 67px;
 }
 
-.col-1{
+.col1{
     width:120px;
     height:67px;
+}
+
+.col1 ul{
+    list-style: none;
+    float: center;
+}
+
+.col1 li{
+    height:26px;
+    text-align: center;
+    margin-right: 10px;
+    padding-left: 41px;
+    margin-top: 30px;
+    color: white;
 }
 .par-1{
     padding-top:85px;
