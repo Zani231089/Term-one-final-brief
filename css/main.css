@@ -105,37 +105,40 @@ h5{
     background-size: cover;
 }
 
-.overlay{
-    width: 230px;
-    height: 180px;
-    background-color: rgba(0, 0, 0, 0.5);
-    padding-top: 80px;
+.overlay1{
+    height:230px;
+    width: 180px;
+    padding-top: 20px;
     opacity: 0;
+    margin-top: -3px;
 }
 
-.overlay :hover{
-    cursor: pointer;
+.overlay1:hover{
     opacity: 1;
 }
 
-.icon{
-    width: 60px;
-    height:60px;
-    background-color: crimson;
-    border-radius: 30px;
-    margin: 0 auto;
+.icon1{
+    margin-left: 60px;
+    margin-top: 30px;
 }
 
-.content{
-    width: 225px;
-    height: 51px;
-    background-color: crimson;
-    margin-top: 50px;
+.content1{
+    width: 230px;
+    height: 70px;
+    background-color: rgba(0, 0, 0, 0.5);
+    margin-top: 35px;
     color: white;
-    padding-left: 25px;
+    font-family: sans-serif;
     padding-top: 9px;
+}
+
+.heart-button1{
+    margin-left: 170px;
+    margin-top: -50px;
 
 }
+
+
 .col-box22{
     width: 230px;
     height: 180px;
