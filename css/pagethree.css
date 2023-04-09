@@ -31,6 +31,15 @@ h3{
     margin-top: -50px;
 }
 
+.column11{
+    margin-left: -130px;
+    width:300px;
+    height: 30px;
+    color: white;
+    text-align: center;
+    margin-top: -40px;
+}
+
 .column2{
     margin-left: -300px;
     color: white;
@@ -44,6 +53,15 @@ h3{
     color: white;
     text-align: center;
     margin-top: 30px;
+}
+
+.column31{
+    margin-left: -20px;
+    width:300px;
+    height: 30px;
+    color: white;
+    text-align: center;
+    margin-top: 40px;
 }
 
 .column4{
@@ -62,6 +80,15 @@ h3{
     color: white;
     text-align: center;
     margin-top: -15px;
+}
+
+.column66{
+    margin-left: 330px;
+    width:300px;
+    height: 30px;
+    color: white;
+    text-align: center;
+    margin-top: -31px;
 }
 
 
@@ -231,7 +258,7 @@ h3{
 .play-buttons{
     margin-left: 600px;
     margin-top: -80px;
-    padding-left: 20px;
+    padding-left: 30px;
     margin-bottom: 30px;
 }
 
@@ -256,6 +283,19 @@ h3{
     background-color: turquoise;
 }
 
+.line2{
+    width:60px;
+    height:2px;
+    background-color: lightgray;
+    margin-top: -130px;
+}
+
+.line-fill2{
+    width:60px;
+    height:2px;
+    background-color: turquoise;
+}
+
 .marker{
     width: 30px;
     height: 30px;
@@ -275,7 +315,7 @@ h3{
 }
 
 .artist-box{
-    width: 60px;
+    width: 70px;
     height:60px;
     background-image: url(../assets/Cover\ image.jpeg);
     background-position: center;
@@ -288,19 +328,44 @@ h3{
     color: white;
     margin-left: 120px;
     margin-top: -50px;
+    margin-left: 142px;
 }
 
 .active-bar{
-    border: 2px solid white;
+    border: none;
     height: 50px;
     width: 300px;
     float: left;
+    margin-top: -80px;
+    color: white;
+    margin-left: -30px;
 }
 
 .favourites{
     color: white;
-    border: 2px solid white;
+    border: none;
     height: 50px;
     width: 300px;
     float: left;
+    margin-left: -50px;
+}
+
+.mix{
+    color: white;
+    border: none;
+    height: 50px;
+    width: 300px;
+    float: left;
+    margin-left: 100px;
+    margin-top: -50px;
+}
+
+.suggestion{
+    color: white;
+    border: none;
+    height: 50px;
+    width: 300px;
+    float: left;
+    margin-left: 250px;
+    margin-top: -50px;
 }
