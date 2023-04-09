@@ -63,6 +63,8 @@ footer{
     float: left;
     margin-left: 70px;
     margin-top:30px;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 700;
 }
 
 .nav-con{
@@ -72,6 +74,9 @@ footer{
     padding-right:10px;
     margin-top: 10px;
     padding-top: 30px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    font-size: 18px;
 }
 
 .nav-con ul{
@@ -96,26 +101,37 @@ footer{
     padding-top:5px;
     padding-bottom: 5px;
     margin-top: -25px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    font-size: 18px;
 }
 
 h4{
     padding-left: 122px;
     padding-top: 175px;
     color: white;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
 }
 
 h5{
     color: white;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
 }
 
 h1{
     padding-left: 122px;
     color: white;
+    font-family: 'Poppins', sans-serif;
+    font-weight:500;
 }
 
 p{
     padding-left: 122px;
     color: white;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
 }
 
 .col-6{
@@ -170,6 +186,9 @@ form{
     border: none;
     background-color:darkgray;
     color: white;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    font-size: 18px;
 
 }
 
@@ -183,6 +202,9 @@ form{
     margin-top: 20px;
     margin-left: 220px;
     border: none;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 18px;
 }
 
 select{
@@ -194,6 +216,10 @@ select{
     margin-top:20px;
     height:35px;
     border: none;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    font-size: 18px;
+    padding-left: 10px;
 }
 
 .button{

@@ -24,6 +24,8 @@ nav{
 h3{
     color: white;
     margin-bottom: -20px;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: 700;
 }
 
 .logo{
@@ -31,8 +33,11 @@ h3{
     margin-left: 100px;
     margin-top:35px;
     color: white;
-
+    font-family: 'Oswald', sans-serif;
+    font-weight: 700;
 }
+
+
 
 .column1{
     margin-left: -130px;
@@ -65,6 +70,8 @@ h3{
     color: white;
     text-align: center;
     margin-top: 30px;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: 700;
 }
 
 .column31{
@@ -74,6 +81,8 @@ h3{
     color: white;
     text-align: center;
     margin-top: 40px;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: 700;
 }
 
 .column4{
@@ -83,6 +92,9 @@ h3{
     color: white;
     text-align: center;
     margin-top: -30px;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: 700;
+    
 }
 
 .column6{
@@ -101,6 +113,8 @@ h3{
     color: white;
     text-align: center;
     margin-top: -31px;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: 700;
 }
 
 
@@ -149,7 +163,10 @@ h3{
     float:left;
     padding-right:10px;
     margin-top: 10px;
-    color: white
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    font-size: 18px;
 }
 
 .nav-con ul{
@@ -167,7 +184,7 @@ h3{
 
 .button1{
     float: right;
-    border: 2px solid turquoise;
+    border: 2px solid #d24d01;
     width: 255px;
     margin-right: 30px;
     border-radius: 20px;
@@ -176,6 +193,9 @@ h3{
     padding-bottom: 5px;
     margin-top: -25px;
     color: white;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    font-size: 18px;
 }
 
 .button2{
@@ -195,7 +215,7 @@ h3{
 .col-box1{
     width: 470px;
     height: 470px;
-    background-image: url(../assets/my_favourite_mix_album_cover.png);
+    background-image: url(../assets/Taylor\ Swift\ Favs\ 1.jpeg);
     background-position: center;
     background-size: cover;
     text-align: center;
@@ -292,7 +312,7 @@ h3{
 .line-fill{
     width:30%;
     height:2px;
-    background-color: turquoise;
+    background-color: #d24d01;
 }
 
 .line2{
@@ -306,13 +326,13 @@ h3{
 .line-fill2{
     width:60px;
     height:2px;
-    background-color: turquoise;
+    background-color: #d24d01;
 }
 
 .marker{
     width: 30px;
     height: 30px;
-    background-color: turquoise;
+    background-color: #d24d01;
     border-radius: 40px;
     margin-left: 380px;
     margin-top: -18px;
@@ -386,4 +406,13 @@ h3{
 .option{
     margin-left: 1300px;
     margin-top: -43px;
+}
+
+.active{
+    font-style: bold;
+}
+
+.song1{
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: 300;
 }

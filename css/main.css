@@ -13,12 +13,168 @@ nav{
     font-family: 'Open Sans', sans-serif;
     font-weight: 500;
     font-size: 15px;
+    margin-left: -100px;
+}
+
+.artist-name3{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 500;
+    font-size: 15px;
+    margin-left: -95px;
+}
+
+.artist-name4{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 500;
+    font-size: 15px;
+    margin-left: -120px;
+}
+
+.artist-name5{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 500;
+    font-size: 15px;
+    margin-left: -120px;
+}
+
+.artist-name6{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 500;
+    font-size: 15px;
+    margin-left: -135px;
+}
+
+.artist-name7{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 500;
+    font-size: 15px;
+    margin-left: -180px;
+}
+
+.artist-name8{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 500;
+    font-size: 15px;
+    margin-left: -130px;
+}
+
+.artist-name9{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 500;
+    font-size: 15px;
+    margin-left: -110px;
+}
+
+.artist-name10{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 500;
+    font-size: 15px;
+    margin-left: -90px;
+}
+
+.artist-name11{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 500;
+    font-size: 15px;
+    margin-left: -120px;
+}
+
+.artist-name12{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 500;
+    font-size: 15px;
+    margin-left: -80px;
+}
+
+.artist-name13{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 500;
+    font-size: 15px;
+    margin-left: -120px;
 }
 
 .name2{
     font-family: 'Open Sans', sans-serif;
     font-weight: 300;
     font-size: 12px;
+    margin-left: -150px;
+}
+
+.name3{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    font-size: 12px;
+    margin-left: -180px;
+}
+
+.name4{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    font-size: 12px;
+    margin-left: -180px;
+}
+
+.name5{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    font-size: 12px;
+    margin-left: -160px;
+}
+
+.name6{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    font-size: 12px;
+    margin-left: -125px;
+}
+
+.name7{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    font-size: 12px;
+    margin-left: -190px;
+}
+
+.name8{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    font-size: 12px;
+    margin-left: -150px;
+}
+
+.name9{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    font-size: 12px;
+    margin-left: -130px;
+}
+
+.name10{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    font-size: 12px;
+    margin-left: -140px;
+}
+
+.name11{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    font-size: 12px;
+    margin-left: -130px;
+}
+
+.name12{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    font-size: 12px;
+    margin-left: -160px;
+}
+
+.name13{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    font-size: 12px;
+    margin-left: -140px;
 }
 
 .small-box{
@@ -72,13 +228,15 @@ h5{
     margin-left: 200px;
     margin-bottom: 30px;
     color: white;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
 }
 
 .logo{
     float: left;
     margin-left: 100px;
     margin-top: 30px;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Oswald', sans-serif;
     font-weight: 700;
 }
 
@@ -198,8 +356,8 @@ h5{
 }
 
 .heart-button1{
-    margin-left: 170px;
-    margin-top: -50px;
+    margin-left: 260px;
+    margin-top: -33px;
 
 }
 
