@@ -579,8 +579,14 @@ h5{
     font-size: 18px;
 }
 
+
 .nav-con ul{
     list-style: none;
+
+}
+
+.active{
+    font-weight: bold;
 }
 
 .nav-con li{
@@ -589,6 +595,7 @@ h5{
     text-align: center;
     margin-right: 10px;
     padding-left: 40px;
+    color: white;
 
 }
 

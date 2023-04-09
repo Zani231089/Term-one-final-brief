@@ -79,6 +79,10 @@ footer{
     font-size: 18px;
 }
 
+.active{
+    font-weight: bold;
+}
+
 .nav-con ul{
     list-style: none;
 }
@@ -89,6 +93,7 @@ footer{
     text-align: center;
     margin-right: 10px;
     padding-left: 40px;
+    color: white;
 }
 
 .button1{
