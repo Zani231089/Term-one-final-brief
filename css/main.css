@@ -9,6 +9,31 @@ nav{
     color:white;
 }
 
+.artist-name2{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 500;
+    font-size: 15px;
+}
+
+.name2{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    font-size: 12px;
+}
+
+.small-box{
+    width: 40px;
+    height:40px;
+    border-radius: 50%;
+    background-image: url(../assets/stream_small_logo_white.png);
+    background-position: center;
+    background-size: cover;
+    margin-bottom: -50px;
+    margin-left: -47px;
+    margin-top: -43px;
+    
+}
+
 header{
     width:1440px;
     height: 600px;
@@ -23,7 +48,6 @@ footer{
     background-color: black;
     color: white;
     margin-left: 200px;
-
 }
 
 header p{
@@ -52,10 +76,30 @@ h5{
 
 .logo{
     float: left;
-    margin-left: 50px;
+    margin-left: 100px;
     margin-top: 30px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+}
+
+.artist-name{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    font-size: 26px;
+    margin-left: 100px;
+    margin-top: 110px;
+}
+
+.album-name{
+    padding-left: 100px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 52px;
+    margin-top: -15px;
 
 }
+
+
 .col-box{
     width: 1440px;
     height: 160px;
@@ -74,6 +118,27 @@ h5{
     margin-top:-60px;
     margin-left:150px;
     margin-right: -80px
+}
+
+.taylor{
+    font-family: 'Poppins', sans-serif;
+    font-size: 30px;
+    font-weight: 500;
+    margin-top: -15px;
+}
+
+.artist{
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+    font-weight: 300;
+    margin-bottom: 5px;
+}
+
+.desricption{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    font-size: 14px;
+    margin-top: 10px;
 }
 
 .video{
@@ -286,17 +351,18 @@ h5{
 }
 
 .normal-1{
-    border: 2px solid lightblue;
+    border: 2px solid #d24d01;
     color:white;
     margin-left: 100px;
     margin-top: -3px;
 }
 
 .normal-2{
-    border: 2px solid lightblue;
+    border: 2px solid #d24d01;
     color:white;
     margin-top: -3px;
     margin-right: 10px;
+    margin-left: 5px;
 }
 
 .heart{
@@ -304,8 +370,8 @@ h5{
 }
 
 .button-back{
-    margin-left: 400px;
-    margin-top: 50px;
+    margin-left: 420px;
+    margin-top: 80px;
 }
 
 .inverted{
@@ -317,7 +383,7 @@ h5{
 
 .button1{
     float: right;
-    border: 2px solid white;
+    border: 2px solid #d24d01;
     width: 255px;
     margin-right: -80px;
     border-radius: 20px;
@@ -338,7 +404,7 @@ h5{
     padding-left:10px;
     padding-top:5px;
     padding-bottom: 5px;
-    margin-top: -31px;
+    margin-top: -33px;
     opacity: 1;
     background-color: rgba(0, 0, 0, 0.5);
     height: 40px;
@@ -350,6 +416,9 @@ h5{
     float:left;
     padding-right:10px;
     margin-top: 35px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    font-size: 18px;
 }
 
 .nav-con ul{
@@ -370,7 +439,6 @@ h5{
     height: 30px;
     margin-left: 950px;
     margin-top: -20px;
-    
     
 }
 
